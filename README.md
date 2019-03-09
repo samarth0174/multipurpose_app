@@ -1,8 +1,11 @@
 # multipurpose_app
 
+
 for learning purpose
--shows contacts
--photos uses glide/picasso liberary
+<br>- Use of Fragments</br>
+<br>-Recycler View</br>
+<br>-Uses  picasso/Glide Photoview</br>
+<br>-Recycler View</br>
 -webview
--uses google maps api to give directions
--a login-signup page using sqlite
+<br>-uses google maps api to give directions</br>
+<br>-a login-signup page using sqlite</br>
